@@ -1,0 +1,20 @@
+/* MAIN */
+
+.ms_container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.ms_container h2 {
+    color: #1100bb;
+}
+
+/* icons */
+.ms_container .ms_skull {
+    font-size: 1.6rem;
+}
+
+.ms_container .ms_copy {
+    font-size: 1.2rem;
+}
+
